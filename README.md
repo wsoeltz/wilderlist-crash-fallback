@@ -1,1 +1,3 @@
-# wilderlist-crash-fallback
+# Wilderlist crash fallback
+
+Landing page in case of a server crash for Wilderlist
